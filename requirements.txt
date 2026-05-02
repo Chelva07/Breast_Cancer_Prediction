@@ -1,0 +1,9 @@
+numpy		Math & arrays
+pandas		Data handling
+matplotlib	Basic plots
+seaborn		Advanced plots
+scikit-learn	Machine learning models
+tensorflow	Deep learning
+opencv-python	Image processing
+tqdm		Progress bars
+joblib		Save/load models
